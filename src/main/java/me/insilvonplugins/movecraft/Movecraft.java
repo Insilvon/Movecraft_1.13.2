@@ -7,7 +7,7 @@ public final class Movecraft extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-
+        //Test number one
     }
 
     @Override

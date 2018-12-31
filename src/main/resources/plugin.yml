@@ -1,0 +1,5 @@
+name: Movecraft
+version: ${project.version}
+main: me.insilvonplugins.movecraft.Movecraft
+authors: [Insilvon]
+description: An updated version of movecraft for 1.13.2
